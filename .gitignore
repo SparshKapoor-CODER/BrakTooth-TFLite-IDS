@@ -3,4 +3,5 @@ __pycache__/
 *$py.class
 *.pyc
 *.pyo
-*.pyd"data/raw/*.csv" 
+*.pyd
+data/raw/*.csv 
