@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+40:86:CB:27:D2:0C, 2026-05-15 10:56:58, 2026-05-15 11:56:47, 13, 270, WPA2, CCMP, PSK, -22,      365,        9,   0.  0.  0.  0,  13, dlink-615_EXT, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+9C:2F:9D:82:20:A3, 2026-05-15 10:56:58, 2026-05-15 11:56:10, -31,     1448, 40:86:CB:27:D2:0C,
+E4:5F:01:D5:E7:32, 2026-05-15 11:00:54, 2026-05-15 11:56:32, -11,       33, 40:86:CB:27:D2:0C,
+DC:A6:32:F8:A7:D6, 2026-05-15 11:34:44, 2026-05-15 11:45:10, -29,       29, 40:86:CB:27:D2:0C,
+
